@@ -1,8 +1,8 @@
-Getting and Cleaning Data Course Project
+#Getting and Cleaning Data Course Project
 About this Project
 The goal of this project was to take the dataset located here, from this source and perform a series of abstractions and transformations in order to collect and clean up the dataset for later analysis.
 
-File descriptions
+##File descriptions
 run_analysis.R
 Contains all of the code for loading, merging, and transforming.
 README.md
